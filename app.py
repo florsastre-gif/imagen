@@ -4,9 +4,9 @@ from google.genai import types
 import os
 
 # --- 1. CONFIGURACIÓN DE LA PÁGINA ---
-st.set_page_config(page_title="Nano Banana Vision", page_icon="🍌")
-st.title("🍌 Nano Banana: Generador de Imágenes")
-st.markdown("Crea arte visual directamente con Gemini Flash Image.")
+st.set_page_config(page_title="Creemos tu imagen", page_icon="🍌")
+st.title("vos decinos qué pensas y nosotros creamos")
+
 
 # --- 2. CREDENCIALES (BARRA LATERAL) ---
 with st.sidebar:
