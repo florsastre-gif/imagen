@@ -5,7 +5,7 @@ import os
 
 # --- 1. CONFIGURACIÓN DE LA PÁGINA ---
 st.set_page_config(page_title="Creemos tu imagen", page_icon="🍌")
-st.title("vos decinos qué pensas y nosotros creamos")
+st.title("Vos decinos qué pensas y nosotros creamos⚡️")
 
 
 # --- 2. CREDENCIALES (BARRA LATERAL) ---
